@@ -1,0 +1,1 @@
+<?php include('poll-result.txt');?>

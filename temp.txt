@@ -1,0 +1,7 @@
+$sql= "UPDATE mark SET  courseid='$id1',coursename='$name1',mark='$mark5' where id='$admno'";
+$sq2= "UPDATE mark SET  courseid='$id2',coursename='$name2',mark='$mark5' where id='$admno'"; 
+$sq3= "UPDATE mark SET  courseid='$id3',coursename='$name3',mark='$mark5' where id='$admno'"; 
+$sq4="UPDATE mark SET  courseid='$id4',coursename='$name4',mark='$mark5' where id='$admno'";  
+$sq5="UPDATE mark SET  courseid='$id5',coursename='$name5',mark='$mark5' where id='$admno'";
+//$sq6="UPDATE stud_adm SET  courseid='$id1',coursename='$name1',mark='$mark1' where adm_no='$admno' ";  
+ 
